@@ -1,9 +1,9 @@
 {
-  "version": "v260309.01 2:25pm",
-  "release": 1,
-  "sha": "18f137f",
-  "fullSha": "18f137f275b082efb405a8a731c9df32c247972c",
+  "version": "v260309.02 3:03pm",
+  "release": 2,
+  "sha": "c129610",
+  "fullSha": "c129610c1ba859a97c8d971317a7cf84da7eb8c5",
   "actor": "Cryptocoatl",
-  "pushedAt": "2026-03-09T19:25:13Z",
-  "commits": []
+  "pushedAt": "2026-03-09T20:03:03Z",
+  "commits": [{"sha": "c129610", "message": "Set up Supabase infrastructure: 20+ tables, RLS, storage buckets", "author": "Steph Ferrera"}]
 }
