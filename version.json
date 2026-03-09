@@ -1,9 +1,9 @@
 {
-  "version": "v260309.02 3:03pm",
-  "release": 2,
-  "sha": "c129610",
-  "fullSha": "c129610c1ba859a97c8d971317a7cf84da7eb8c5",
+  "version": "v260309.03 4:05pm",
+  "release": 3,
+  "sha": "62c89e7",
+  "fullSha": "62c89e799c4a8e0640dccdab15ba42fbdf37ee50",
   "actor": "Cryptocoatl",
-  "pushedAt": "2026-03-09T20:03:03Z",
-  "commits": [{"sha": "c129610", "message": "Set up Supabase infrastructure: 20+ tables, RLS, storage buckets", "author": "Steph Ferrera"}]
+  "pushedAt": "2026-03-09T21:05:51Z",
+  "commits": [{"sha": "62c89e7", "message": "Add Resend email + Telnyx SMS edge functions and client modules", "author": "Steph Ferrera"}]
 }
