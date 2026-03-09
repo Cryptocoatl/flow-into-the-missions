@@ -1,4 +1,4 @@
-# [Your Project Name] — Project Directives
+# Flow Into The Missions — Project Directives
 
 > **On-demand docs — load when the task matches:**
 > - `docs/CREDENTIALS.md` — **load for:** SQL queries, deploying functions, SSH, API calls
@@ -30,5 +30,6 @@
 ## Quick Refs
 
 - **Tech:** Vanilla HTML/JS + Tailwind v4 | Supabase | GitHub Pages
-- **Live:** https://USERNAME.github.io/REPO/
+- **Live:** https://cryptocoatl.github.io/flow-into-the-missions/
+- **Supabase:** https://bjrbtfcdnpoiguhngbch.supabase.co
 - **Architecture:** Browser → GitHub Pages → Supabase (no server-side code)

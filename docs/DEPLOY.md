@@ -22,7 +22,17 @@ CI bumps automatically via GitHub Action on every push. **Never bump locally.**
 
 | Environment | URL |
 |---|---|
-| GitHub Pages | https://USERNAME.github.io/REPO/ |
+| GitHub Pages | https://cryptocoatl.github.io/flow-into-the-missions/ |
+| Supabase Dashboard | https://supabase.com/dashboard/project/bjrbtfcdnpoiguhngbch |
+| Supabase API | https://bjrbtfcdnpoiguhngbch.supabase.co |
+
+## Supabase Edge Functions
+
+Deploy with:
+```bash
+cd ~/flow-into-the-missions && export SUPABASE_ACCESS_TOKEN="..." && supabase functions deploy <function-name>
+```
+Webhook functions need `--no-verify-jwt`.
 
 ## Tailwind CSS
 
